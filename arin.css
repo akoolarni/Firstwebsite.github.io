@@ -1,0 +1,126 @@
+body{
+background:url('arin.jpeg') no-repeat center fixed;
+background-size: cover;
+margin: 10px;
+padding: 10px;
+font-family: 'Bebas Neue', sans-serif;
+
+}
+
+h1{
+position:relative;
+top: -390px;
+display: block;
+text-align: right;
+padding: 10px;
+color: yellow;
+font-size: 200px;
+background-color: aquamarine
+
+opacity:aqua;
+}
+h3{
+position: relative;
+padding: 10px;
+margin: 10px;
+top: -590px;
+display: block;
+text-align: right;
+color: black;
+font-size: 120px;
+}
+
+h5{
+position: relative;
+padding: 10px;
+margin: 10px;
+bottom: 800px;
+}
+.a1{
+display: inline-block;
+margin: 12px;
+padding: 1px;
+justify-content: center;
+
+
+
+
+}
+.a1 img{
+width: 80px;
+filter: invert(100%);
+border-radius: 30px;
+}
+
+.btn{
+background-color: black;
+border-radius: 30px;
+border-color: rgb(0, 0, 0);
+cursor: pointer;
+
+}
+.btn:hover{
+background-color: rgb(255, 255, 255);
+}
+
+.a2{
+display: inline-block;
+margin: 12px;
+padding: 1px;
+justify-content: center;
+
+}
+
+.a2 img{
+position: relative;
+right: ;
+width: 50px;
+filter: invert(100%);
+border-radius: 30px;
+background-color: black;
+}
+
+
+.btnn{
+position: relative;
+left: 110px;
+bottom: 95px;
+top: -71px;
+background-color: black;
+border-radius: 50px;
+border-color: #000000;
+cursor: pointer;
+}
+
+.btnn:hover{
+background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+.a3 img{
+position: relative;
+width: 55px;
+
+
+}
+
+.bt{
+position: relative;
+background-color: black;
+border-radius: 40px;
+border-color: black;
+cursor: pointer;
+left: 220px;
+bottom: 150px;
+top: -145px;
+
+
+}
+
+.bt:hover{
+background-color: rgb(255, 255, 255);
+}
+
